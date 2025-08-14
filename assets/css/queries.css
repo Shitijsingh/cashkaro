@@ -1,0 +1,55 @@
+@media (max-width: 768px) {
+    .main-header {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+
+    .search-bar {
+        flex-direction: column;
+        border-radius: 8px;
+    }
+
+    .search-bar input {
+        padding: 12px 15px;
+    }
+
+    .search-bar button {
+        padding: 12px;
+    }
+}
+
+@media (max-width: 575px) {
+    .logo {
+        display: flex;
+        width: 100%;
+    }
+
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+
+    .search-box {
+        display: none;
+    }
+
+    .auth-buttons {
+        display: none;
+    }
+}

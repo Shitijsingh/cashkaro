@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>arrow</title>
+	<style>
+		.s0 { opacity: .88;fill: #d9d9d9 } 
+		.s1 { fill: none;stroke: #2f2f2f;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.8 } 
+	</style>
+	<g id="Group_3170">
+		<path id="Rectangle_1461" fill-rule="evenodd" class="s0" d="m15.5 32c-8.8-0.3-15.7-7.6-15.5-16.5 0.3-8.8 7.6-15.7 16.5-15.5 8.8 0.3 15.7 7.6 15.5 16.5-0.3 8.8-7.6 15.7-16.5 15.5z"/>
+		<path id="Path_85971" class="s1" d="m18.2 10.1l-6.2 5.8 5.8 6.1"/>
+	</g>
+</svg>
